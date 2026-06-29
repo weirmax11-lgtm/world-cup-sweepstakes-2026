@@ -1,1 +1,62 @@
-
+[
+  {
+    "name": "Balla",
+    "teams": ["Brazil", "England", "Iran", "Senegal"],
+    "points": 0
+  },
+  {
+    "name": "Kenya",
+    "teams": ["Portugal", "Japan", "Canada", "Congo DR"],
+    "points": 0
+  },
+  {
+    "name": "Julia",
+    "teams": ["Argentina", "Croatia", "Ecuador", "Switzerland"],
+    "points": 0
+  },
+  {
+    "name": "Kailey",
+    "teams": ["Germany", "Colombia", "Mexico", "Qatar"],
+    "points": 0
+  },
+  {
+    "name": "Rylan",
+    "teams": ["France", "United States", "Australia", "Saudi Arabia"],
+    "points": 0
+  },
+  {
+    "name": "Farhan",
+    "teams": ["Belgium", "Morocco", "Türkiye", "Algeria"],
+    "points": 0
+  },
+  {
+    "name": "Max",
+    "teams": ["Norway", "Egypt", "Paraguay", "Curaçao"],
+    "points": 0
+  },
+  {
+    "name": "Craig",
+    "teams": ["Ghana", "Iraq", "South Africa", "Spain"],
+    "points": 0
+  },
+  {
+    "name": "Hannah",
+    "teams": ["Austria", "Côte d'Ivoire", "Tunisia", "Uzbekistan"],
+    "points": 0
+  },
+  {
+    "name": "Nick",
+    "teams": ["Netherlands", "Panama", "Haiti", "Cabo Verde"],
+    "points": 0
+  },
+  {
+    "name": "Kaitlyn",
+    "teams": ["Sweden", "Uruguay", "Czechia", "Scotland"],
+    "points": 0
+  },
+  {
+    "name": "Clovis",
+    "teams": ["South Korea", "Bosnia & Herzegovina", "Jordan", "New Zealand"],
+    "points": 0
+  }
+]
